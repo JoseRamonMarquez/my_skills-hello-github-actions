@@ -11,6 +11,8 @@
 
 _Create a GitHub Action and use it in a workflow._
 
+This is a workflow test
+
 </header>
 
 <!--
